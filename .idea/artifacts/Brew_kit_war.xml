@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Brew-kit:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="currencyapp.war">
+      <element id="artifact" artifact-name="Brew-kit:war exploded" />
+    </root>
+  </artifact>
+</component>
